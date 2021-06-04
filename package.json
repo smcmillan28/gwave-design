@@ -2,7 +2,7 @@
   "name": "groundwave-design",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://smcmillan28.github.io/gwave-design",
+  "homepage": "https://smcmillan28.github.io/gwave-design/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
