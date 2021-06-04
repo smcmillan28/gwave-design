@@ -24,6 +24,13 @@
   color: white;
 }
 
+.App-body {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+  padding: 40px;
+}
+
 .App-link {
   color: #61dafb;
 }
