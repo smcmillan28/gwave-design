@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gwave-design/static/css/main.aaa8df51.chunk.css",
+    "main.js": "/gwave-design/static/js/main.f9c8adf1.chunk.js",
+    "main.js.map": "/gwave-design/static/js/main.f9c8adf1.chunk.js.map",
+    "runtime-main.js": "/gwave-design/static/js/runtime-main.402268e4.js",
+    "runtime-main.js.map": "/gwave-design/static/js/runtime-main.402268e4.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/gwave-design/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b5d2462e.chunk.js": "/gwave-design/static/js/2.b5d2462e.chunk.js",
+    "static/js/2.b5d2462e.chunk.js.map": "/gwave-design/static/js/2.b5d2462e.chunk.js.map",
+    "index.html": "/gwave-design/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/gwave-design/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.aaa8df51.chunk.css.map": "/gwave-design/static/css/main.aaa8df51.chunk.css.map",
+    "static/js/2.b5d2462e.chunk.js.LICENSE.txt": "/gwave-design/static/js/2.b5d2462e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.402268e4.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.b5d2462e.chunk.js",
+    "static/css/main.aaa8df51.chunk.css",
+    "static/js/main.f9c8adf1.chunk.js"
+  ]
+}
